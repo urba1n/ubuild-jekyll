@@ -8,5 +8,4 @@ page_sections:
   media_alignment: Right
   headline: Welcome on my personal website
   content: This site will guide you through various stuff.
-published: false
 ---
